@@ -1,3 +1,4 @@
 # FavoriteBook
-Created with CodeSandbox
+
+Created with CodeSandbox.
 It's a little homework in React: "My favorite book".
